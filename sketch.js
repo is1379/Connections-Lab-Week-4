@@ -69,14 +69,6 @@ class planet {
             }
           }
         }
-
-        if (factNumber === 1) {
-          populateFact1()
-        } else if (factNumber === 2) {
-          populateFact2()
-        } else {
-          populateFact3()
-        }
       }
     }
   }
