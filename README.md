@@ -9,6 +9,9 @@ Enjoy 😊
 ----------
 
 **DOCUMENTATION WRITE UP:**
+
+----------
+
 **Deployed Page link: https://is1379.github.io/Connections-Lab-Week-4/**
 
 ----------
